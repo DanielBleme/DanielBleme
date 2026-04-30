@@ -4,7 +4,7 @@
 
 Meu nome é Daniel e sou Desenvolvedor em formação com sólido interesse em tecnologia e focado no desenvolvimento back-end. Sou estudante de Análise e Desenvolvimento de Sistemas e busco aprimorar minhas habilidades na criação de aplicações objetivas e inovadoras. Tenho grande ambição de crescimento profissional e almejo consolidar minha carreira na área de tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/daniel-bleme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-bleme)
 
 ---
 
